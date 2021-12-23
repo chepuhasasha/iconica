@@ -1,0 +1,20 @@
+{
+  "name": "shapeshape",
+  "author": "Sergey Batukov",
+  "license": "MIT",
+  "version": "0.0.1",
+  "description": "svg cli",
+  "homepage": "https://github.com/sashachepuha/shapeshape/tree/main/shapeshape",
+  "main": "dist/index.js",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sashachepuha/shapeshape.git"
+  },
+  "keywords": [
+    "svg"
+  ],
+  "bugs": {
+    "url": "https://github.com/sashachepuha/shapeshape/issues"
+  }
+}
