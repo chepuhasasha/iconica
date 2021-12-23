@@ -23,12 +23,12 @@ module.exports = (env) => {
 
   const PROD = {
     mode: 'production',
-    entry: './shapeshape/index.js',
+    entry: './iconica/index.js',
     output: {
-      path: path.resolve(__dirname + '/shapeshape', 'dist'),
+      path: path.resolve(__dirname + '/iconica', 'dist'),
       filename: 'index.js',
       library: {
-        name: 'shapeshape',
+        name: 'iconica',
         type: 'umd',
       },
       clean: true,

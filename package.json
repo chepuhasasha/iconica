@@ -1,9 +1,9 @@
 {
-  "name": "shapeshape_repo",
+  "name": "iconica_repo",
   "version": "1.0.0",
   "author": "Sergey Batukov",
   "license": "MIT",
-  "description": "shapeshape monorepo",
+  "description": "iconica monorepo",
   "workspaces": [
     "./shapeshape"
   ],
