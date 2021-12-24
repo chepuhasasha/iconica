@@ -1,4 +1,4 @@
-const key = process.env.FIGMA_KEY
+const key = process.env.FIGMA_TOKEN
 const id = process.env.FILE_ID
 
 const axios = require('axios');
